@@ -26,7 +26,7 @@
 # 📈 Statistics 📈
 ![](https://komarev.com/ghpvc/?username=omar456-asc&color=447ff7&label=Visitor+count)
 
-### 👨‍💻 Top Languages Used*:
+### 👨‍💻 Top Languages Used:
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=omar456-asc&theme=nord_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=omar456-asc&theme=nord_dark)
 
