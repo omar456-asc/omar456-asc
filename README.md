@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Omar Walid</h1>
 <h3 align="center">A passionate Fullstack Web developer from Egypt</h3>
 
-- 📫 How to reach me **omar.wallidd.com**
+- 📫 How to reach me **omar.wallidd@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
